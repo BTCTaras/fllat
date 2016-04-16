@@ -1,0 +1,10 @@
+{
+  "name": "wylst/fllat",
+  "description": "A flat file database system. Driven by PHP. Stores data in JSON. SQL based data fetching.",
+  "autoload": {
+    "classmap": ["fllat.php"]
+  },
+  "require": {
+    "wylst/prequel": "@dev-master"
+  }
+}
